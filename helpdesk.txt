@@ -1,14 +1,28 @@
 Goal: Being able to pass the technical interview in 2025 means you will just have to know how to convince
 the interviewer that you know how to:
 
-A. Configure technology for the end user
-B. Troubleshoot common technology for the end user
-C. Train a user how to use certain technology
-D. Understand ITIL/Service best practices
+A. Answer the Question - Point Blank Knowledge
+B. Configure technology for the end user
+C. Troubleshoot common technology for the end user
+D. Train a user how to use certain technology
+E. Understand ITIL/Service best practices
+
+--------------------------------------------------------------------------------------------------------------------------
+A. Answer the Question - Point Blank Knowledge
+
+1. What command would you use to get the IP Address of a Windows System?
+2. What is the difference between a router and a switch?
+3. What is the port number for: SMB, SSH, FTP, DNS, HTTP, HTTPS
+4. What is the OSI model and name me examples of each
+5. What is the purpose of Windows Update?
+6. What is a the purpose of anti-virus applications?
+7. In windows, if users can visit sites within the company, but not on the internet, what setting in Windows is missing?
+8. What is the purpse of an AD Security Group and why is that better than using a user for a permission?
+9. What are some common issues relating to Wifi?
 
 --------------------------------------------------------------------------------------------------------------------------
 
-A. Configure technology for the end user
+B. Configure technology for the end user
 
 1. Please detail the process of setting up a File Share for a User in Windows
 2. Please detail the process of adding a new printer to windows for a user in Windows
@@ -17,11 +31,20 @@ A. Configure technology for the end user
 5. Please detail the process of configuring a general VPN client on Windows 
 6. Please detail the process of adding a user to a generalized SSO Application
 
+--------------------------------------------------------------------------------------------------------------------------
+C. Troubleshoot common technology for the end user
 
-  
+1. The users computer is slow. What are some common things you want to try to help resolve it?
+2. The User uses Excel and they are noticing slow performance. What are 2 factors in which may be causing this slowness?
+3. The user is mentioning that the internet is slow. What are some factors that may be causing this slowness?
+4. The user mentions the printer is not wokring. What are some issues that may be causing this to happen?
+5. The user mentions they don't know how to deal with computers. What is some immediate things you can do to help them out?
+6. The Fax Machine is not working. What are some common things they can try?
+
+
 --------------------------------------------------------------------------------------------------------------------------
   
-B. Train a user how to use certain technology
+D. Train a user how to use certain technology
 
 1. Please explain how to map a Windows File Share on Windows
 2. Please explain how to map a Onedrive / Sharepoint Online Share on Windows
@@ -29,4 +52,9 @@ B. Train a user how to use certain technology
   
 --------------------------------------------------------------------------------------------------------------------------
   
-C. Understand ITIL/Service best practices
+E. Understand ITIL/Service best practices
+
+1. What are some best practices when it relates to getting approvals?
+2. What are some best practices when it relates to creating documentation?
+
+
