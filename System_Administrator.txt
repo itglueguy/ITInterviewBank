@@ -1,0 +1,62 @@
+Goal: Being able to pass the technical interview in 2025 means you will just have to know how to convince
+the interviewer that you know how to:
+
+A. Setup or configure technology
+B. Troubleshoot something in an ideal scenario
+C. Design or achitect technology
+
+------------------------------------------------------------------------------------------------------------
+
+A. Setup or Configure Technology
+Easy
+
+1. Please detail the process of setting up a SMB File Share on Windows and how to share it with users
+2. Please detail the process of expanding disk space on a Windows Server
+3. What is the general process of provisioning a Virtual Machine in Hyper-V?
+
+Medium
+
+1. How would you change the title of someone in Exchange online?
+2. How would you test backups from Azure Backup?
+3. How would you test backups from AWS Backup?
+
+Diffculty
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+B. Troubleshoot Technology in an ideal scenario
+
+Easy
+1. User cannot access an SMB share while on the VPN. What things should you try?
+3. A users VPN Access is not working. What things should you try?
+
+Medium
+
+1. Your Firewall appliance is no longer doing Anti-virus protection after the previous manager did not send payment to the vendor. What is the issue on the device? 
+
+Difficult
+
+1. How would you use Powershell to implement a SAAS Licensing program on Schedule automatic Licensing provisioning? 
+2. Your company recently move to Zero Trust from using a VPN for remote access. The Server Application now does not work in the cloud for your users. Waht things should you try?
+3. Explain to me the factors of a user visiting the Internet. Please consider factors in switching, routing, and DNS in particular.
+
+------------------------------------------------------------------------------------------------------------
+
+C. Design or achitect technology
+
+Easy
+1. If you had only 3 Nodes of your AD Forest in Los Angeles, how would you ensure your users in Boston can get those entries synced in less than 10 minutes?
+2. When should you utilize ON-Prem Environments vs. Cloud Environments for Infrastructure/Server Hosting?
+
+Medium
+
+1. What typology would you use if you needed to create multiple VPN Connections from many remote offices to one headquarters office?
+2. What are the cost/maintenance tradeoffs of using Tape for Backup vs. Using Direct to Disk?
+
+
+Difficult
