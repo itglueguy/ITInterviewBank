@@ -1,0 +1,32 @@
+Goal: Being able to pass the technical interview in 2025 means you will just have to know how to convince
+the interviewer that you know how to:
+
+A. Configure technology for the end user
+B. Troubleshoot common technology for the end user
+C. Train a user how to use certain technology
+D. Understand ITIL/Service best practices
+
+--------------------------------------------------------------------------------------------------------------------------
+
+A. Configure technology for the end user
+
+1. Please detail the process of setting up a File Share for a User in Windows
+2. Please detail the process of adding a new printer to windows for a user in Windows
+3. Please detail the process of setting up a File Share for a User in MAC OSX
+4. Please detail the process of adding a new printer to windows for a user in Mac OSX
+5. Please detail the process of configuring a general VPN client on Windows 
+6. Please detail the process of adding a user to a generalized SSO Application
+
+
+  
+--------------------------------------------------------------------------------------------------------------------------
+  
+B. Train a user how to use certain technology
+
+1. Please explain how to map a Windows File Share on Windows
+2. Please explain how to map a Onedrive / Sharepoint Online Share on Windows
+3. Please explain how a user can create an Away message while they are on Vacation
+  
+--------------------------------------------------------------------------------------------------------------------------
+  
+C. Understand ITIL/Service best practices
