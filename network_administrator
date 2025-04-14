@@ -1,0 +1,40 @@
+
+
+
+
+General Networking
+
+1. What is the purpose of Subnetting?
+2. What is the purpsoe of Firewall rules?
+3. What is the last rule in a firewall rule do?
+4. What is the purpose of supernetting?
+5. What is the difference between a Network Load Balancer and an Application load balancer?
+6. What is a proxy and a reverse proxy?
+7. What is the purpose of a Firewall Appliance?
+8. What protocols or access methods are used to access network devices?
+9. What is the purpose of a console cable? Rollover Cable?
+10. List some best practices as it relates to Network Appliance Maintenance?
+
+
+Firewall Appliance Specific
+
+
+Switching Specific
+
+Routing Specific
+
+Load Balancer Specific
+
+
+AWS Specific
+
+1. In AWS Security groups, what is the difference between inbound and Outboud Rules?
+2. What is the purpose of the Security group, NACL, and Route Table. Please give an example of each.
+3. What is the difference between VPC Peering, VPC Sharing, and Sharing a Transit Gateway attachment in terms of networking?
+4. What is transitive routing and give an example.
+5. Is there such a thing as AWS Route Table Rules blocking services indirectly
+6. What are the differences between Next Generation Firewalls and the basic security/Firewall features in AWS?
+
+Azure Specific
+
+1. What is the difference between using Interface and subnet level Network Security Groups?
