@@ -15,6 +15,7 @@ Easy
 3. What is the general process of provisioning a Virtual Machine in Hyper-V?
 4. Detail what is generally needed to provision a Virtual machine; regardless of Hypervisor
 5. Detail the process of how you would join a Windows PC to the Domain
+6. Detail how you would use a host file and why its used?
 
 Medium
 
@@ -23,6 +24,7 @@ Medium
 3. How would you test backups from AWS Backup?
 4. How would you make storage available to Vmware ESXI?
 5. How would you make physical connections to Vmware ESXI in a redundant manner?
+6. How do you generally associate SSL Certificates in IIS?
 
 
 Diffculty

@@ -23,6 +23,7 @@ A. Answer the Question - Point Blank Knowledge
 11. What is the purpose if a: IP Address, subnet, and gateway in IP communication?
 12. What is the difference between a local printer and a network printer?
 13. What is the purpose of a bios on a windows computer?
+14. What do you need to do in order to enable port forwarding on a common consumer router?
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -41,9 +42,10 @@ C. Troubleshoot common technology for the end user
 1. The users computer is slow. What are some common things you want to try to help resolve it?
 2. The User uses Excel and they are noticing slow performance. What are 2 factors in which may be causing this slowness?
 3. The user is mentioning that the internet is slow. What are some factors that may be causing this slowness?
-4. The user mentions the printer is not wokring. What are some issues that may be causing this to happen?
+4. The user mentions the printer is not working. What are some issues that may be causing this to happen?
 5. The user mentions they don't know how to deal with computers. What is some immediate things you can do to help them out?
 6. The Fax Machine is not working. What are some common things they can try?
+7. A user on the vpn is not able to see the most recent version of files on the file share. What can you try to fix this?
 
 
 --------------------------------------------------------------------------------------------------------------------------
@@ -52,7 +54,7 @@ D. Train a user how to use certain technology
 
 1. Please explain how to map a Windows File Share on Windows
 2. Please explain how to map a Onedrive / Sharepoint Online Share on Windows
-3. Please explain how a user can create an Away message while they are on Vacation
+3. Please explain how a user can create an Away message in Outlook while they are on Vacation
   
 --------------------------------------------------------------------------------------------------------------------------
   
