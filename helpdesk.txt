@@ -12,13 +12,17 @@ A. Answer the Question - Point Blank Knowledge
 
 1. What command would you use to get the IP Address of a Windows System?
 2. What is the difference between a router and a switch?
-3. What is the port number for: SMB, SSH, FTP, DNS, HTTP, HTTPS
+3. What is the port number for: SMB, SSH, FTP, DNS, HTTP, HTTPS, RDP
 4. What is the OSI model and name me examples of each
 5. What is the purpose of Windows Update?
 6. What is a the purpose of anti-virus applications?
 7. In windows, if users can visit sites within the company, but not on the internet, what setting in Windows is missing?
 8. What is the purpse of an AD Security Group and why is that better than using a user for a permission?
 9. What are some common issues relating to Wifi?
+10. What is DHCP stand for?
+11. What is the purpose if a: IP Address, subnet, and gateway in IP communication?
+12. What is the difference between a local printer and a network printer?
+13. What is the purpose of a bios on a windows computer?
 
 --------------------------------------------------------------------------------------------------------------------------
 

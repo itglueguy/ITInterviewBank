@@ -13,12 +13,17 @@ Easy
 1. Please detail the process of setting up a SMB File Share on Windows and how to share it with users
 2. Please detail the process of expanding disk space on a Windows Server
 3. What is the general process of provisioning a Virtual Machine in Hyper-V?
+4. Detail what is generally needed to provision a Virtual machine; regardless of Hypervisor
+5. Detail the process of how you would join a Windows PC to the Domain
 
 Medium
 
 1. How would you change the title of someone in Exchange online?
 2. How would you test backups from Azure Backup?
 3. How would you test backups from AWS Backup?
+4. How would you make storage available to Vmware ESXI?
+5. How would you make physical connections to Vmware ESXI in a redundant manner?
+
 
 Diffculty
 
@@ -33,18 +38,23 @@ B. Troubleshoot Technology in an ideal scenario
 
 Easy
 1. User cannot access an SMB share while on the VPN. What things should you try?
-3. A users VPN Access is not working. What things should you try?
+2. A users VPN Access is not working. What things should you try?
+
 
 Medium
 
 1. Your Firewall appliance is no longer doing Anti-virus protection after the previous manager did not send payment to the vendor. What is the issue on the device? 
 2. Please explain the method of troubleshooting you would use to help train the helpdesk on consistantly troubleshooting Windows based file shares.
+3. What type of IAM policy in AWS would allow you to share an S3 Bucket with a User?
+4. In Sharepoint Online, the user is compaining about not having enough space. What can you do in MS Admin Center to resolve this?
+5. A certain group of users can no longer access a file share in which has millions of files. You notice that the NTFS Security group has been changed. What is the fastest way to get this share working again?
 
 Difficult
 
 1. How would you use Powershell to implement a SAAS Licensing program on Schedule automatic Licensing provisioning? 
 2. Your company recently move to Zero Trust from using a VPN for remote access. The Server Application now does not work in the cloud for your users. Waht things should you try?
 3. Explain to me the factors of a user visiting the Internet. Please consider factors in switching, routing, and DNS in particular.
+4. What type of IAM policy in AWS would allow you to share an S3 Bucket with a Role in a cross account manner?
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -54,11 +64,12 @@ Easy
 1. If you had only 3 Nodes of your AD Forest in Los Angeles, how would you ensure your users in Boston can get those entries synced in less than 10 minutes?
 2. When should you utilize ON-Prem Environments vs. Cloud Environments for Infrastructure/Server Hosting?
 
+
 Medium
 
 1. What typology would you use if you needed to create multiple VPN Connections from many remote offices to one headquarters office?
 2. What are the cost/maintenance tradeoffs of using Tape for Backup vs. Using Direct to Disk?
-
+3. What methods would you use to help save on storage costs for an on-premise file share?
 
 Difficult
 

@@ -17,11 +17,13 @@ General Networking
 
 
 Firewall Appliance Specific
-
+1. What is the last rule in a Firewall rule?
+2. What elements are included in a general firewall rule?
 
 Switching Specific
 
 Routing Specific
+1. What is the purpose of a static route?
 
 Load Balancer Specific
 
